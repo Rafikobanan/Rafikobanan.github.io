@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.4b2386a4.css",
+    "main.js": "/my-app/static/js/main.cfdf2044.js",
+    "static/media/logo.svg": "/my-app/static/media/logo.8021957c507d9bd6de5fd6bdaf3e4681.svg",
+    "index.html": "/my-app/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4b2386a4.css",
+    "static/js/main.cfdf2044.js"
+  ]
+}
